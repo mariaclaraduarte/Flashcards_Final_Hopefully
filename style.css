@@ -71,3 +71,4 @@ h1 {
 .flashcard.flip .back {
     transform: rotateY(0deg);
 }
+<link rel="stylesheet" href="style.css">
